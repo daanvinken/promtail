@@ -23,7 +23,7 @@ The easiest way is to initialize a predefined JSON v1 API client via:
 ~~~go
 package mypackage
 
-import "github.com/ic2hrmk/promtail"
+import "github.com/daanvinken/promtail"
 
 func foo() error {
     // List of default labels which would be attached to every log message
